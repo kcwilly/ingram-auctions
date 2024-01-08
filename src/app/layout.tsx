@@ -1,6 +1,5 @@
 import "./globals.css";
 import {
-  RegisterLink,
   LoginLink,
   LogoutLink,
 } from "@kinde-oss/kinde-auth-nextjs/components";
